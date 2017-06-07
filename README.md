@@ -1,7 +1,12 @@
+# About
+Hello! I am a new, independent iOS developer. It has been a goal of mine since graduating from college to create and release an iOS game. I will update this page reflecting the status of my applications. 
+
+
 # Applications
   - Photon
-    - Release Date: 
-    - Available on iOS, Check it out!
+    - Status: In Development
+    - Estimated Release Date: July 2017
+    - Available on iOS
 
 # Support
   - Please direct support issues to: photonDev13@gmail.com
