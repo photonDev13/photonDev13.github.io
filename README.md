@@ -3,7 +3,7 @@ Hello! I am a new, independent iOS developer. It has been a goal of mine through
 
 
 # Applications
-  - **Photon**
+  - **Photon Shift**
     - Status: In Development
     - Estimated Release Date: July 2017
     - Available on iOS
