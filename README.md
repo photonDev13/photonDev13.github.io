@@ -4,8 +4,7 @@ Hello! I am a new, independent iOS developer. It has been a goal of mine through
 
 # Applications
   - **Photon Flux**
-    - Status: In Development
-    - Estimated Release Date: July 2017
+    - Status: Released!
     - Available on iOS
 
 # Support
